@@ -1,11 +1,7 @@
 ### Hi  everyone, I'm Doug
 
-- 🔭 I'm working with user support in the network area
-- 🌱 I am studying "computer science". I am also studying "computer network technician".
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🖥️ I'm working with user support in the network area
+- 📗 I am studying "computer science". I am also studying "computer network technician".
 
 <div align="center">
   <a href="https://github.com/D0ugg">
