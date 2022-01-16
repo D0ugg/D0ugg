@@ -1,7 +1,8 @@
 ### Hi  everyone, I'm Doug
 
-- 🖥️ I'm working with user support in the network area
-- 📗 I am studying "computer science". I am also studying "computer network technician".
+- 🖥️ Estou trabalhando com suporte ao usuário na área de rede
+- 📗 Estou estudando "ciência da computação" e fazendo "técnico de rede de computadores".
+- 💡 Estou procurando meu primeiro emprego na área de desenvolvimento
 
 <div align="center">
   <a href="https://github.com/D0ugg">
