@@ -23,5 +23,5 @@
   <a href="https://www.linkedin.com/in/douglas-mesquita-534829192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198449852101/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <img align="right" alt="Doug.pic" height="150" style="border-radius:50px;" 
-       src="https://discord.com/channels/830917126138626118/830917126138626121/932381211576377364">
+       src="https://cdn.discordapp.com/attachments/830917126138626121/932382377307693116/GIF_COMPLETO.gif">
 </div>
