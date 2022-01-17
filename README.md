@@ -1,7 +1,7 @@
 ### Hi  everyone, I'm Doug
 
-- 🖥️ Estou trabalhando com suporte ao usuário na área de redes.
-- 📗 Estou estudando "ciência da computação" e fazendo "técnico de rede de computadores".
+- 🖥️ Trabalho com suporte ao usuário na área de redes.
+- 📗 Cursando "ciência da computação" e fazendo "técnico de rede de computadores".
 - 💡 Estou procurando meu primeiro emprego na área de desenvolvimento.
 - 🕹️ Amante de bons jogos, livros de ficção/fantasia e um eterno estudante de novas tecnologias.
 
