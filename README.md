@@ -1,8 +1,8 @@
 ### Hi  everyone, I'm Doug
 
-- 🖥️ Trabalho com suporte ao usuário na área de redes.
+- 🖥️ Trabalho como Administrador de redes.
 - 📗 Cursando "ciência da computação" e fazendo "técnico de rede de computadores".
-- 💡 Estou procurando meu primeiro emprego na área de desenvolvimento.
+- 💡 Estou procurando novas experiencias.
 - 🕹️ Amante de bons jogos, livros de ficção/fantasia e um eterno estudante de novas tecnologias.
 
 <div align="center">
